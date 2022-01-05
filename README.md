@@ -53,6 +53,18 @@ You can directly download these [XML files](https://github.com/guestart/Oracle-S
 
 ![user_defined_reports_4.png](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/user_defined_reports_4.png)
 
-### 5. License
+### 5. Relevant Blog Posts
+
+On one hand I've also published a series of relevant blog posts on [modb.pro](https://www.modb.pro/), they're listed in chronological order as below:
+
+- [Visualizing the Oracle Perfornance Graph by Average Active Sessions](https://www.modb.pro/db/158813) - Chinese
+- [Visualizing the Oracle Performance Graph by Average Active Sessions & Logic CPUs](https://www.modb.pro/db/160390) - Chinese
+- [Visualizing the Oracle Performance Graph by Average Runnable Processes](https://www.modb.pro/db/172906) - Chinese
+- [Visualizing the Oracle Performance Graph by Active Sessions Per Activity Class](https://www.modb.pro/db/181155) - Chinese
+- [Visualizing the Oracle Performance Graph by Active Sessions Per Wait Class](https://www.modb.pro/db/188688)
+
+On the other hand you're able to find the previous list as well from [here](https://quanwenzhao.wordpress.com/2022/01/04/the-catalogue-of-visualizing-performance-data/).
+
+### 6. License
 
 This repository complies with the License of [GNU General Public License v2.0](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/LICENSE), if you copy or forward it please consent all of the content of this protocol.

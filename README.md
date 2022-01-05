@@ -40,11 +40,19 @@ Here we primarily concentrate visualizeng the following `oracle performance metr
 Fortunately Oracle SQL Develooper offers a very cool function that is called **User Defined Reports** on **Reports** label tab (you can find it by clicking `Reorts` on the `View` menu). Or taking a look at the three steps as below:
 
 ![user_defined_reports_1.png](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/user_defined_reports_1.png)
+
 ![user_defined_reports_2.png](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/user_defined_reports_2.png)
+
 ![user_defined_reports_3.png](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/user_defined_reports_3.png)
 
 We can use the **User Defined Reports** to visualize oracle performance metrics mentioned previously in the **section 2**.
 
 ### 4. Using cool XML files to generate User Defined Reports of Oracle SQL Developer
 
-You can directly download these [XML files](https://github.com/guestart/Oracle-SQL-Scripts/tree/master/XML_Reports) to your laptop and then choose **Open Report** by right-clicking the entry **User Defined Reports** in the Reports label tab of Oracle SQL Developer, next to choose a XML file that has already been saved to your computer, until you finished adding all of XML files using similar approach.
+You can directly download these [XML files](https://github.com/guestart/Oracle-SQL-Scripts/tree/master/XML_Reports) to your laptop and then choose **Open Report** by right-clicking the entry **User Defined Reports** in the Reports label tab of Oracle SQL Developer, next to choose a XML file that has already been saved to your computer, until you finished adding all of XML files using similar approach. Ultimately the oracle performance metrics have been shown on Reports label tab of Oracle SQL Developer, such as the following screenshot:
+
+![user_defined_reports_4.png](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/user_defined_reports_4.png)
+
+### 5. License
+
+This repository complies with the License of [GNU General Public License v2.0](https://github.com/guestart/Visualizing-Oracle-Performance-Data-By-Graph/blob/main/LICENSE), if you copy or forward it please consent all of the content of this protocol.

@@ -1,4 +1,5 @@
-[toc]
+@[toc](Table of Contents)
+
 # Visualizing-Oracle-Performance-Data-By-Graph
 
 I finished a project about how to visualize oracle performance by graph in recent two months (2021.11 - 2021.12).

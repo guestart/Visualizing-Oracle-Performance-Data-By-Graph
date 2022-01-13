@@ -2,8 +2,6 @@
 
 I finished a project about how to visualize oracle performance by graph in recent two months (2021.11 - 2021.12).
 
-[TOC](Table of Contents)
-
 ### 1. Introduction - What's VOPDBG?
 
 In this section I'll share something with you about the introduction about **visualizing oracle performance data by graph**. Yes, as well-known as, `VOPDBG` is the combination of the first letter abbreviation for **V**isualizing **O**racle **P**erformance **D**ata **B**y **G**raph.

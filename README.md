@@ -1,8 +1,7 @@
+[toc]
 # Visualizing-Oracle-Performance-Data-By-Graph
 
 I finished a project about how to visualize oracle performance by graph in recent two months (2021.11 - 2021.12).
-
-[toc]
 
 ### 1. Introduction - What's VOPDBG ?
 

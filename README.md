@@ -1,10 +1,10 @@
-@[toc](Table of Contents)
-
 # Visualizing-Oracle-Performance-Data-By-Graph
 
 I finished a project about how to visualize oracle performance by graph in recent two months (2021.11 - 2021.12).
 
-### 1. Introduction - What's VOPDBG ?
+[TOC](Table of Contents)
+
+### 1. Introduction - What's VOPDBG?
 
 In this section I'll share something with you about the introduction about **visualizing oracle performance data by graph**. Yes, as well-known as, `VOPDBG` is the combination of the first letter abbreviation for **V**isualizing **O**racle **P**erformance **D**ata **B**y **G**raph.
 
@@ -37,7 +37,7 @@ Here we primarily concentrate visualizeng the following `oracle performance metr
 - `UTPSLPS` (**U**ser **T**ransaction **P**er **S**econd and **L**ogons **P**er **S**econd)
    - [acquire_lps_union_tps.sql](https://github.com/guestart/Oracle-SQL-Scripts/blob/master/awr_trend/acquire_lps_union_tps.sql)
 
-### 3. How To Visualize Oracle Performance Data ?
+### 3. How To Visualize Oracle Performance Data?
 
 Fortunately Oracle SQL Develooper offers a very cool function that is called **User Defined Reports** on **Reports** label tab (you can find it by clicking `Reorts` on the `View` menu). Or taking a look at the three steps as below:
 
